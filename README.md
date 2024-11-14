@@ -43,7 +43,7 @@ I'm Vincent,an Operations & Tech Solutions Professional with a focus on efficien
 --- As a self-proclaimed and largely self-taught developer, I am passionate about machine learning, AI, Automation and cybersecurity.
 
 ### Let's Connect!  
-- **LinkedIn**: [My Profile](https://www.linkedin.com/vjjvr)  
+- **LinkedIn**: [My Profile](www.linkedin.com/in/vjjvr)
 - **Email**: [Send Email](mailto:vexv.inni@gmail.com)  
 
 Feel free to reach out for collaborations, learning opportunities, or just to chat about tech! 
